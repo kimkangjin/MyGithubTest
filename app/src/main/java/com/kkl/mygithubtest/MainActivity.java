@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     //   하루에 한번이상은 Git올리기(Commit - 로컬저장소저장, push - 서버저장소저장)
     //   ,Pull - 서버에 있는 파일 내려받기
 
-    //소스를 수정했습니다. 
+    //소스를 수정했습니다. asdasdasd
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
